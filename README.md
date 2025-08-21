@@ -1,4 +1,4 @@
-# 📝 Todo App (React + TypeScript)
+# Todo App (React + TypeScript)
 
 Ett enkelt "att göra"-projekt byggt med **React**, **TypeScript** och
 **Vite**.
@@ -7,7 +7,7 @@ ordning på vad som behöver göras.
 
 ---
 
-## 🚀 Kom igång
+## Kom igång
 
 ### 1. Klona projektet
 
@@ -39,19 +39,6 @@ npm run dev
 
 ---
 
-## 📦 Bygga för produktion
-
-För att skapa en optimerad version av appen (till server eller GitHub
-Pages):
-
-```bash
-npm run build
-```
-
-Detta skapar en mapp `dist/` med de färdiga filerna.
-
----
-
 ## 🛠 Teknologier
 
 - [React](https://react.dev/)\
@@ -60,6 +47,4 @@ Detta skapar en mapp `dist/` med de färdiga filerna.
 
 ---
 
-## 📄 Licens
-
-Detta projekt är fritt att använda för inlärning och övning.
+## Skapad av JuliaRymem i kursen TypeScript
