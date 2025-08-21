@@ -14,10 +14,9 @@ ordning på vad som behöver göras.
 Ladda ner projektet från GitHub:
 
 ```bash
-git clone https://github.com/<juliarymem>/<repo-namn>.git
-cd <repo-namn>
+git clone [https://github.com/<juliarymem>/<repo-namn>](https://github.com/JuliaRymem/todoTS).git
+cd <todoTS>
 ```
-
 ### 2. Installera beroenden
 
 Installera alla nödvändiga paket:
